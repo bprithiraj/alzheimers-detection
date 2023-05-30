@@ -192,5 +192,5 @@ For more of these plots over different performance metrics such as loss, preciso
 
 - [B. Prithiraj](https://github.com/bprithiraj)
 - [Nirmit Gupta](https://github.com/Nirmit1910)
-- [Sarit Samyak Rath](https://github.com/SARIT42)
+- [Sarit Rath](https://github.com/SARIT42)
 
