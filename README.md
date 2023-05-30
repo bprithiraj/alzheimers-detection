@@ -1,4 +1,4 @@
-# **HealthCoder - Alzheimer's Disease Classification**
+# **HealthCoder 2023 - Alzheimer's Disease Classification**
 
 <img align="right" height="200" alt="img" src="https://neurosciencenews.com/files/2023/03/alzheimers-ai-neurosicneces-public.jpg" padding="3px"  />
 
