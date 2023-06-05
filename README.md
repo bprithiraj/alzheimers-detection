@@ -163,7 +163,7 @@ The following table shows the evaluation metrics for different models used in th
 
 ## Overall Accuracy of all Models Comparison Plot
 
-![image](https://github.com/bprithiraj/alzheimers-detection/assets/77446629/f4b588dc-b8ea-4675-af7e-ec72f5868436)
+![image](https://github.com/SARIT42/alzheimers-detection/assets/77446629/c843e840-091e-4444-af3a-15ebe9b0ad4d)
 
 This plot shows that we get our highest accuracies from our **Conventional CNN model** and **PCA-SVM model** . While other models have also acquired quite decent accuracies.
 
