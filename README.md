@@ -1,5 +1,7 @@
 # **HealthCoder 2023 - Alzheimer's Disease Classification**
 
+![image](https://github.com/SARIT42/alzheimers-detection/assets/77446629/00515d0a-2daa-492e-b132-e6ade66d6fcd)
+
 <img align="right" height="200" alt="img" src="https://neurosciencenews.com/files/2023/03/alzheimers-ai-neurosicneces-public.jpg" padding="3px"  />
 
 
